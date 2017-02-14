@@ -1,8 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Author: Roman <RPKuznetsov@GMail.com>
- * Date: 05.02.2017.
+ * Implements decoding with fix transmission rate
  */
 public class Decoder {
     // transmission rate (bits per dot)
